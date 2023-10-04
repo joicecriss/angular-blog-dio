@@ -1,14 +1,26 @@
 export const dataFake = [
   {
-    "id":"1",
-    "title": "NOVO HOMEM DE FERRO EM 3D",
-    "description": "marvel anuncia um novo filme do homem de ferro, confira",
-    "photoCover":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7F51FA9F6CBD9F0C9B1394B1CC0A6A842D07091318674E234CD33CBF7C28CDC3/scale?width=1200&aspectRatio=1.78&format=jpeg"
+    "id": "1",
+    "title": "Série conquista público diversificado na Netflix",
+    "description": "De acordo com a Variety, a Nielsen relata que One Piece alcançou 1,3 bilhão de minutos assistidos na Netflix nos Estados Unidos. Além disso, um detalhe chama a atenção. Parece que a série conquistou uma audiência bastante diversificada no serviço de streaming. Ainda segundo a Nielsen, 25% de seu público é hispânico, e 19% é afro-americano. Com o sucesso, One Piece foi rapidamente renovada para uma segunda temporada. Ainda não se sabe quando os novos episódios serão produzidos.",
+    "photoCover": "https://i.ytimg.com/vi/FJ-rx1yb3Hs/maxresdefault.jpg"
   },
   {
-    "id":"2",
-    "title": "Nova Série anunciada no Disney +",
-    "description": "bla blabla",
-    "photoCover":"https://disneyplusbrasil.com.br/wp-content/uploads/2021/07/Series-Marvel-Disney-Plus-1024x576.jpg"
+    "id": "2",
+    "title": "One Piece revela forma adulta de Momonosuke no anime",
+    "description": "O Arco País de Wano está chegando ao fim no anime One Piece. O Episódio 1.078 mostrou a forma adulta de Kozuki Momonosuke. Com os poderes de Shinobu, seu corpo envelheceu 20 anos. Ele apareceu para os cidadãos pronto para assumir o seu lugar como Xogum de Wano",
+    "photoCover": "https://assets.pikiran-rakyat.com/crop/0x0:4046x2641/x/photo/2022/08/02/3032136756.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Você sabia que o Lufy é brasileiro?",
+    "description": "A revelação de que Luffy é brasileiro foi feita por Eiichiro Oda em um dos volumes de seu mangá. Shitsumon wo Boshu Suru (SBS) é uma parte reservada no mangá de One Piece, onde o autor responde e tira as dúvidas que são enviadas pelos fãs. Dentre elas, uma que certamente chamou a atenção foi: quais as nacionalidades da “vida real” da equipe de Luffy? A cultura brasileira teve um impacto profundo na personalidade de Luffy. O espírito alegre e brincalhão do povo brasileiro se reflete no personagem, que está sempre sorrindo e buscando aproveitar cada momento da vida. Além disso, a determinação e a paixão que os brasileiros têm pelo que amam são características que também estão presentes em Luffy. Sua busca incansável pelo tesouro One Piece se impulsiona por sua determinação inabalável e por sua lealdade aos amigos, características são altamente valorizadas na cultura brasileira. A revelação de que Luffy é brasileiro causou grande comoção entre os fãs da série no Brasil. Os brasileiros, famosos por seu amor pela cultura pop e sua paixão por animes e mangás, receberam essa notícia com entusiasmo e orgulho. O fato de um dos personagens mais queridos e famosos da série ter origem brasileira fortaleceu o vínculo entre os fãs brasileiros e a história de One Piece, resultando em uma comunidade ainda mais apaixonada e engajada.",
+    "photoCover": "https://i0.wp.com/metagalaxia.com.br/wp-content/uploads/2023/06/Monkey-D.-Luffy.webp?resize=1024%2C576&ssl=1"
+  },
+  {
+    "id": "4",
+    "title": "Curiosidades sobre as Akuma No Mi",
+    "description": "As Akuma no Mi têm uma origem misteriosa, envolta em lendas e mitos dentro do mundo de “One Piece”. Elas são consideradas frutas amaldiçoadas, capazes de conceder poderes extraordinários aos seus consumidores, mas ao custo da incapacidade de nadar. A razão pela qual as frutas possuem essas propriedades peculiares é um dos mistérios que persiste na história. As Akuma no Mi são classificadas em três tipos principais: Paramécia, Zoan e Logia. Cada tipo confere habilidades únicas. As Paramécias oferecem poderes variados, como controlar elementos, alterar corpos e criar substâncias. As Zoan permitem que o consumidor se transforme em um animal ou um híbrido animal-humano. Já as Logia concedem o controle sobre elementos naturais, permitindo ao usuário se tornar e manipular a própria substância. Uma das características mais interessantes das Akuma no Mi é que seus consumidores perdem a capacidade de nadar. Isso se deve à natureza sobrenatural das frutas e às propriedades da Grande Linha, um mar misterioso e perigoso em “One Piece”. A água enfraquece consideravelmente os usuários das frutas, tornando-os vulneráveis. Por isso, evitar o contato com a água se torna uma necessidade constante para quem possui esses poderes. Limitação na Escolha: Um aspecto intrigante é que, ao se consumir uma Akuma no Mi, a pessoa não tem controle sobre qual tipo de fruta obterá. Isso resulta em situações cômicas e surpreendentes. Alguns personagens tiveram suas vidas transformadas positivamente, enquanto outros receberam poderes que inicialmente parecem inúteis ou estranhos. As Akuma no Mi frequentemente se baseiam em mitos e lendas do mundo real. Por exemplo, a Gomu Gomu no Mi de Luffy, que concede a ele a capacidade de esticar como borracha, é inspirada no folclore de um homem borracha do Japão. Isso adiciona profundidade aos poderes e cria um senso de familiaridade em meio à fantasia. A relação entre os usuários e suas frutas é muitas vezes uma parte crucial de suas histórias. Alguns personagens se adaptam rapidamente aos seus poderes, enquanto outros lutam para controlá-los. Essa dinâmica entre indivíduo e habilidades é uma parte emocionalmente rica do enredo, explorando os desafios de se obter um poder aparentemente ilimitado. As Akuma no Mi frequentemente são alvos de cobiça e conflitos. Devido aos poderes únicos que oferecem, muitos piratas e organizações procuram adquiri-las para fortalecer sua posição. Isso leva a batalhas emocionantes e a rivalidades intensas, à medida que vários personagens competem para conseguir essas frutas raras e valiosas. As Akuma no Mi são um dos elementos mais intrigantes de “One Piece”, adicionando camadas de complexidade ao mundo e aos personagens. Com suas origens misteriosas, poderes diversos e consequências únicas, essas frutas não apenas oferecem emocionantes reviravoltas no enredo, mas também exploram temas mais profundos de ambição, adaptabilidade e a natureza da força sobrenatural em um mundo de aventuras ilimitadas.",
+    "photoCover": "https://onepieceex.net/wp-content/uploads/2017/04/Akuma-no-mi1.jpg.webp"
   }
 ]
